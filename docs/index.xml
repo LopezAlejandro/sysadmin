@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Como Subir El Sitio</title>
+      <link>https://lopezalejandro.github.io/sysadmin/como-subir-el-sitio/</link>
+      <pubDate>Fri, 27 Sep 2019 12:32:20 -0300</pubDate>
+      
+      <guid>https://lopezalejandro.github.io/sysadmin/como-subir-el-sitio/</guid>
+      <description> Como subir el sitio a git Para cada subida tenemos que hacer lo siguiente (después de hacer los cambios y probar en local):
+ hugo git add . git commit -m &amp;ldquo;Mensaje&amp;rdquo; git push origin master  </description>
+    </item>
+    
+    <item>
       <title>Tareas a Realizar</title>
       <link>https://lopezalejandro.github.io/sysadmin/tareas-a-realizar/</link>
       <pubDate>Fri, 27 Sep 2019 11:15:47 -0300</pubDate>
