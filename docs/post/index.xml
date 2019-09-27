@@ -17,7 +17,7 @@
       
       <guid>https://lopezalejandro.github.io/sysadmin/como-subir-el-sitio/</guid>
       <description> Como subir el sitio a git Para cada subida tenemos que hacer lo siguiente (después de hacer los cambios y probar en local):
- hugo git add . git commit -m &amp;ldquo;Mensaje&amp;rdquo; git push origin master  </description>
+  hugo   git add .   git commit -m &amp;#34;Mensaje&amp;#34;   git push origin master   </description>
     </item>
     
     <item>

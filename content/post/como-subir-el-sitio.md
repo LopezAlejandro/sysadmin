@@ -8,7 +8,19 @@ tags: ["documentacion"]
 
 Para cada subida tenemos que hacer lo siguiente (después de hacer los cambios y probar en local):
 
-1. hugo
-2. git add .
-3. git commit -m "Mensaje"
-4. git push origin master
+1. 
+{{< cmd >}}
+hugo
+{{< /cmd >}}
+2. 
+{{< cmd >}}
+git add .
+{{< /cmd >}}
+3. 
+{{< cmd >}}
+git commit -m "Mensaje"
+{{< /cmd >}}
+4. 
+{{< cmd >}}
+git push origin master
+{{< /cmd >}}
