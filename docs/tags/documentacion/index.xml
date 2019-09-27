@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>documentacion on Cupper</title>
+    <link>https://lopezalejandro.github.io/sysadmin/tags/documentacion/</link>
+    <description>Recent content in documentacion on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Sep 2019 11:15:47 -0300</lastBuildDate>
+    
+	<atom:link href="https://lopezalejandro.github.io/sysadmin/tags/documentacion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tareas a Realizar</title>
+      <link>https://lopezalejandro.github.io/sysadmin/tareas-a-realizar/</link>
+      <pubDate>Fri, 27 Sep 2019 11:15:47 -0300</pubDate>
+      
+      <guid>https://lopezalejandro.github.io/sysadmin/tareas-a-realizar/</guid>
+      <description>Cuando se procesan los archivos del isis, tener cuidado al subir con los permisos.</description>
+    </item>
+    
+  </channel>
+</rss>

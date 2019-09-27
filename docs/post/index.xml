@@ -6,10 +6,18 @@
     <description>Recent content in Blog on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Sep 2019 20:26:08 -0500</lastBuildDate>
     
 	<atom:link href="https://lopezalejandro.github.io/sysadmin/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tareas a Realizar</title>
+      <link>https://lopezalejandro.github.io/sysadmin/tareas-a-realizar/</link>
+      <pubDate>Fri, 27 Sep 2019 11:15:47 -0300</pubDate>
+      
+      <guid>https://lopezalejandro.github.io/sysadmin/tareas-a-realizar/</guid>
+      <description>Cuando se procesan los archivos del isis, tener cuidado al subir con los permisos.</description>
+    </item>
     
     <item>
       <title>Special Character Test</title>

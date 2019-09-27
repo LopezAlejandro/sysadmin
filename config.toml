@@ -29,11 +29,11 @@ publishDir = "docs"
 [menu]
   [[menu.nav]]
     name = "Home"
-    url = "/"
+    url = "/index"
     weight = 1
   [[menu.nav]]
     name = "Blog"
-    url = "/post/"
+    url = "/post/index"
     weight = 2
   [[menu.nav]]
     name = "Tags"
