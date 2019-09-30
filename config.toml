@@ -1,7 +1,7 @@
 baseURL = "https://lopezalejandro.github.io/sysadmin/"
 languageCode = "en-us"
 defaultContentLanguage = "es"
-title = "Cupper"
+title = "Bitácora de un Sysadmin"
 theme = "cupper-hugo-theme"
 googleAnalytics = "UA-123456789-1"
 disqusShortname = ""
@@ -18,7 +18,7 @@ publishDir = "docs"
   quality = 99
 
 [params]
-  description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
+  description = "Un sitio donde anotar los retos diarios, con los que se encuentra un sysadmin"
   homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
   footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
   # For more date formats see https://gohugo.io/functions/format/
