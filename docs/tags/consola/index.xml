@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>consola on Bitácora de un Sysadmin</title>
+    <link>https://lopezalejandro.github.io/sysadmin/tags/consola/</link>
+    <description>Recent content in consola on Bitácora de un Sysadmin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Oct 2019 14:18:32 -0300</lastBuildDate>
+    
+	<atom:link href="https://lopezalejandro.github.io/sysadmin/tags/consola/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mail Consola</title>
+      <link>https://lopezalejandro.github.io/sysadmin/mail-consola/</link>
+      <pubDate>Tue, 08 Oct 2019 14:18:32 -0300</pubDate>
+      
+      <guid>https://lopezalejandro.github.io/sysadmin/mail-consola/</guid>
+      <description>Para enviar un mail por consola a traves de gmail , tenemos que usar el programa mailx.
+Con el script siguiente podemos enviar un mail con un attach a una lista de receptores.
+#!/bin/sh # servidor de salida FROM_EMAIL_ADDRESS=&amp;quot;enviador@mi-dominio.com&amp;quot; FRIENDLY_NAME=&amp;quot;nombre-humano&amp;quot; EMAIL_ACCOUNT_PASSWORD=&amp;quot;contraseña&amp;quot; SERVER_SMTP=&amp;quot;smtp://smtp.gmail.com:587&amp;quot; EMAIL_SUBJECT=&amp;quot;Lo que quieras como subject&amp;quot; while IFS=, read -r TO_EMAIL_ADDRESS FILE_ATTACH do # todo lo que pongamos en el echo, sera el contenido del correo echo &amp;quot;Cualquier cosa que quieras poner.</description>
+    </item>
+    
+  </channel>
+</rss>
