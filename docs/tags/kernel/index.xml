@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kernel on Bitácora de un Sysadmin</title>
+    <link>https://lopezalejandro.github.io/sysadmin/tags/kernel/</link>
+    <description>Recent content in kernel on Bitácora de un Sysadmin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2019 11:59:56 -0300</lastBuildDate>
+    
+	<atom:link href="https://lopezalejandro.github.io/sysadmin/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kernel Para Ideapad 320</title>
+      <link>https://lopezalejandro.github.io/sysadmin/kernel-para-ideapad-320/</link>
+      <pubDate>Tue, 19 Nov 2019 11:59:56 -0300</pubDate>
+      
+      <guid>https://lopezalejandro.github.io/sysadmin/kernel-para-ideapad-320/</guid>
+      <description> Como hacer funcionar el touchpad de la Lenovo ideapad 320    Atención! Esto es bastante sencillo, solo hay que recompilar el kernel de linux activando la siguiente opcion : CONFIG_PINCTRL_AMD=y   </description>
+    </item>
+    
+  </channel>
+</rss>

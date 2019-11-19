@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bitácora de un Sysadmin</title>
@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Bitácora de un Sysadmin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2019 14:18:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 11:59:56 -0300</lastBuildDate>
     
 	<atom:link href="https://lopezalejandro.github.io/sysadmin/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>compilar</title>
+      <link>https://lopezalejandro.github.io/sysadmin/tags/compilar/</link>
+      <pubDate>Tue, 19 Nov 2019 11:59:56 -0300</pubDate>
+      
+      <guid>https://lopezalejandro.github.io/sysadmin/tags/compilar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentacion</title>
+      <link>https://lopezalejandro.github.io/sysadmin/tags/documentacion/</link>
+      <pubDate>Tue, 19 Nov 2019 11:59:56 -0300</pubDate>
+      
+      <guid>https://lopezalejandro.github.io/sysadmin/tags/documentacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kernel</title>
+      <link>https://lopezalejandro.github.io/sysadmin/tags/kernel/</link>
+      <pubDate>Tue, 19 Nov 2019 11:59:56 -0300</pubDate>
+      
+      <guid>https://lopezalejandro.github.io/sysadmin/tags/kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://lopezalejandro.github.io/sysadmin/tags/linux/</link>
+      <pubDate>Tue, 19 Nov 2019 11:59:56 -0300</pubDate>
+      
+      <guid>https://lopezalejandro.github.io/sysadmin/tags/linux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>consola</title>
@@ -35,15 +71,6 @@
       <pubDate>Mon, 30 Sep 2019 13:54:59 -0300</pubDate>
       
       <guid>https://lopezalejandro.github.io/sysadmin/tags/radio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>documentacion</title>
-      <link>https://lopezalejandro.github.io/sysadmin/tags/documentacion/</link>
-      <pubDate>Fri, 27 Sep 2019 12:32:20 -0300</pubDate>
-      
-      <guid>https://lopezalejandro.github.io/sysadmin/tags/documentacion/</guid>
       <description></description>
     </item>
     
